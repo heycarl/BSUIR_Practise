@@ -1,0 +1,3 @@
+[submodule "bsuir-latex"]
+	path = bsuir-latex
+	url = https://github.com/Qurcaivel/bsuir-latex.git
